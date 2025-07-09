@@ -1,5 +1,5 @@
 <!--
-**Sourabh/Sourabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pallav/Pallav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. </h1> 
 
-<img src="https://github.com/Sourabh2112/Sourabh2112/blob/main/Code_with_glasses.jpg?raw=true" />
+<img src="https://github.com/Pallav2112/Pallav2112/blob/main/Code_with_glasses.jpg?raw=true" />
 
 <p>Welcome to my page! </p>
 
@@ -22,9 +22,9 @@ I'm Pallav kumar, a college student and a tech enthusiast. I'm also a Full-Stack
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Sourabh2112?style=social)](https://www.github.com/Pallavkumar2003)
-[![Gmail Badge](https://img.shields.io/badge/-Sourabh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pallavkumar2003@gmail.com)](mailto:pallavkkumar2003@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Sourabh-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Sk8955731458)](https://t.me/Sk8955731458)
+[![GitHub followers](https://img.shields.io/github/followers/Pallav2112?style=social)](https://www.github.com/Pallavkumar2003)
+[![Gmail Badge](https://img.shields.io/badge/-Pallav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pallavkumar2003@gmail.com)](mailto:pallavkkumar2003@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Pallav-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Sk8955731458)](https://t.me/Sk8955731458)
 
 <br/>
 <br/>
@@ -50,8 +50,8 @@ I'm Pallav kumar, a college student and a tech enthusiast. I'm also a Full-Stack
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh2112&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)<br/>
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sourabh2112&theme=ayu-mirage&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallav2112&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)<br/>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pallav2112&theme=ayu-mirage&hide_border=true)
 
 <img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
 
