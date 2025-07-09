@@ -23,7 +23,7 @@ I'm Pallav kumar, a college student and a tech enthusiast. I'm also a Full-Stack
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Pallav2112?style=social)](https://www.github.com/Pallavkumar2003)
-[![Gmail Badge](https://img.shields.io/badge/-Pallav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pallavkumar2003@gmail.com)](mailto:pallavkkumar2003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Pallav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pallavkumar2003@gmail.com)](mailto:pallavkumar2003@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Pallav-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Sk8955731458)](https://t.me/Sk8955731458)
 
 <br/>
